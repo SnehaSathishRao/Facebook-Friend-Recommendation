@@ -18,8 +18,8 @@ Total number of Edges/links - 9437519<br/>
 
 # Business Objectives and Constraints: <br/>
 
-    1. No low latency rate required.<br/>
-    2. Predciting the probability of a link  is useful so as to recommend the highest probability links to a user.<br/>
+  No low latency rate required.<br/>
+  Predciting the probability of a link  is useful so as to recommend the highest probability links to a user.<br/>
 
 # Performance Metrics: <br/>
 
